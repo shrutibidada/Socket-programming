@@ -1,0 +1,205 @@
+04/18/18 01:24 PM, Connection by unknown user Shruti
+04/18/18 01:25 PM, Shruti displays all known users
+04/18/18 01:25 PM, Connection by unknown user Sukriti
+04/18/18 01:25 PM, Sukriti displays all currently connected users
+04/18/18 01:25 PM, Sukriti displays all known users
+04/18/18 01:25 PM, Sukriti posts a message for Sue
+04/18/18 01:25 PM, Sukriti displays all known users
+04/18/18 01:25 PM, Sukriti displays all currently connected users
+04/18/18 01:26 PM, Sukriti posts a message for all connected users
+04/18/18 01:26 PM, Shruti exits
+04/18/18 01:26 PM, Connection by known user Shruti
+04/18/18 01:26 PM, Shruti gets messages
+04/18/18 01:26 PM, Connection by known user Sue
+04/18/18 01:26 PM, Sue gets messages
+04/18/18 01:27 PM, Sue posts a message for all known users
+04/18/18 01:27 PM, Shruti gets messages
+04/18/18 01:28 PM, Sukriti gets messages
+04/18/18 01:28 PM, Sukriti exits
+04/18/18 01:28 PM, Shruti exits
+04/18/18 01:28 PM, Sue exits
+
+Connecting to giant.utdallas.edu: 1026
+Enter your name:
+Sue
+Text received: Hi Sue
+1.	Display the names of all known users.
+2.	Display the names of all currently connected users.
+3.	Send a text message to a particular user.
+4.	Send a text message to all currently connected users.
+5.	Send a text message to all known users.
+6.	Get my messages.
+7.	Exit.
+
+6
+Your messages:
+From Sukriti, 04/18/18 01:25 PM, Hello Sue
+
+
+1.	Display the names of all known users.
+2.	Display the names of all currently connected users.
+3.	Send a text message to a particular user.
+4.	Send a text message to all currently connected users.
+5.	Send a text message to all known users.
+6.	Get my messages.
+7.	Exit.
+
+5
+Enter a message
+Hello All known Users
+Message Posted to All Known Users
+
+1.	Display the names of all known users.
+2.	Display the names of all currently connected users.
+3.	Send a text message to a particular user.
+4.	Send a text message to all currently connected users.
+5.	Send a text message to all known users.
+6.	Get my messages.
+7.	Exit.
+
+7
+
+Connecting to giant.utdallas.edu: 1026
+Enter your name:
+Shruti
+Text received: Hi Shruti
+1.	Display the names of all known users.
+2.	Display the names of all currently connected users.
+3.	Send a text message to a particular user.
+4.	Send a text message to all currently connected users.
+5.	Send a text message to all known users.
+6.	Get my messages.
+7.	Exit.
+
+6
+Your messages:
+From Sukriti, 04/18/18 01:26 PM, Hello All Connected Users
+
+
+1.	Display the names of all known users.
+2.	Display the names of all currently connected users.
+3.	Send a text message to a particular user.
+4.	Send a text message to all currently connected users.
+5.	Send a text message to all known users.
+6.	Get my messages.
+7.	Exit.
+
+6
+Your messages:
+From Sue, 04/18/18 01:27 PM, Hello All known Users
+
+
+1.	Display the names of all known users.
+2.	Display the names of all currently connected users.
+3.	Send a text message to a particular user.
+4.	Send a text message to all currently connected users.
+5.	Send a text message to all known users.
+6.	Get my messages.
+7.	Exit.
+
+7
+
+
+Connecting to giant.utdallas.edu: 1026
+Enter your name:
+Sukriti
+Text received: Hi Sukriti
+1.	Display the names of all known users.
+2.	Display the names of all currently connected users.
+3.	Send a text message to a particular user.
+4.	Send a text message to all currently connected users.
+5.	Send a text message to all known users.
+6.	Get my messages.
+7.	Exit.
+
+2
+Currently Connected Users:
+ Sukriti
+ Shruti
+1.	Display the names of all known users.
+2.	Display the names of all currently connected users.
+3.	Send a text message to a particular user.
+4.	Send a text message to all currently connected users.
+5.	Send a text message to all known users.
+6.	Get my messages.
+7.	Exit.
+
+1
+Known users:
+ Sukriti
+ Shruti
+1.	Display the names of all known users.
+2.	Display the names of all currently connected users.
+3.	Send a text message to a particular user.
+4.	Send a text message to all currently connected users.
+5.	Send a text message to all known users.
+6.	Get my messages.
+7.	Exit.
+
+3
+Enter recipient's name
+Sue
+Enter a message
+Hello Sue
+Message Posted to Sue
+
+1.	Display the names of all known users.
+2.	Display the names of all currently connected users.
+3.	Send a text message to a particular user.
+4.	Send a text message to all currently connected users.
+5.	Send a text message to all known users.
+6.	Get my messages.
+7.	Exit.
+
+1
+Known users:
+ Sukriti
+ Shruti
+ Sue
+1.	Display the names of all known users.
+2.	Display the names of all currently connected users.
+3.	Send a text message to a particular user.
+4.	Send a text message to all currently connected users.
+5.	Send a text message to all known users.
+6.	Get my messages.
+7.	Exit.
+
+2
+Currently Connected Users:
+ Sukriti
+ Shruti
+1.	Display the names of all known users.
+2.	Display the names of all currently connected users.
+3.	Send a text message to a particular user.
+4.	Send a text message to all currently connected users.
+5.	Send a text message to all known users.
+6.	Get my messages.
+7.	Exit.
+
+4
+Enter a message
+Hello All Connected Users
+Message Posted to All Connected Users
+
+1.	Display the names of all known users.
+2.	Display the names of all currently connected users.
+3.	Send a text message to a particular user.
+4.	Send a text message to all currently connected users.
+5.	Send a text message to all known users.
+6.	Get my messages.
+7.	Exit.
+
+6
+Your messages:
+From Sue, 04/18/18 01:27 PM, Hello All known Users
+
+
+1.	Display the names of all known users.
+2.	Display the names of all currently connected users.
+3.	Send a text message to a particular user.
+4.	Send a text message to all currently connected users.
+5.	Send a text message to all known users.
+6.	Get my messages.
+7.	Exit.
+
+7
